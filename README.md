@@ -19,13 +19,6 @@ import Pkg
 Pkg.add(url="https://github.com/agimenezromero/DemoVuln.jl")
 ```
 
-If the repository is named `demovuln-jl` instead, use:
-
-```julia
-import Pkg
-Pkg.add(url="https://github.com/agimenezromero/demovuln-jl")
-```
-
 ## Basic usage
 
 ```julia
