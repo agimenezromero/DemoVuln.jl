@@ -1,0 +1,17 @@
+# Julia
+.julia/
+Manifest.toml
+
+# Test/build artifacts
+*.ji
+*.cov
+*.mem
+deps/deps.jl
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
