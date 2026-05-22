@@ -125,3 +125,5 @@ Pkg.test()
 ## License
 
 MIT License.
+
+Maintainer: Àlex Giménez-Romero (<alex.gimenez@csic.es>)

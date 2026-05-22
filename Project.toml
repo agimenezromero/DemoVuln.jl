@@ -1,6 +1,6 @@
 name = "DemoVuln"
 uuid = "4f2b56b7-4f5d-4e88-9b87-1d45f6a63d37"
-authors = ["Alex Giménez-Romero"]
+authors = ["Àlex Giménez-Romero <alex.gimenez@csic.es>", "Meritxell Genovart"]
 version = "0.1.0"
 
 [deps]
